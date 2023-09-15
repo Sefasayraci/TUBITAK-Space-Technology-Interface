@@ -1,0 +1,52 @@
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\bin\Debug\interface_code.exe.config
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\bin\Debug\interface_code.exe
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\bin\Debug\interface_code.pdb
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\obj\Debug\interface_code.csproj.AssemblyReference.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\obj\Debug\interface_code.csproj.SuggestedBindingRedirects.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\obj\Debug\interface_code.Form1.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\obj\Debug\interface_code.Properties.Resources.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\obj\Debug\interface_code.csproj.GenerateResource.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\obj\Debug\interface_code.csproj.CoreCompileInputs.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\obj\Debug\interface_code.exe
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\obj\Debug\interface_code.pdb
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\obj\Debug\interface_code.telemetry.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code\interface_code\obj\Debug\interface_code.csproj.ResolveComReference.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\bin\Debug\interface_code.exe.config
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\bin\Debug\interface_code.exe
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\bin\Debug\interface_code.pdb
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\obj\Debug\interface_code.csproj.AssemblyReference.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\obj\Debug\interface_code.csproj.SuggestedBindingRedirects.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\obj\Debug\interface_code.csproj.ResolveComReference.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\obj\Debug\interface_code.Form1.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\obj\Debug\interface_code.Properties.Resources.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\obj\Debug\interface_code.telemetry.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\obj\Debug\interface_code.csproj.GenerateResource.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\obj\Debug\interface_code.csproj.CoreCompileInputs.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\obj\Debug\interface_code.exe
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2)\interface_code\obj\Debug\interface_code.pdb
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\bin\Debug\interface_code.exe.config
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\bin\Debug\interface_code.exe
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\bin\Debug\interface_code.pdb
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\obj\Debug\interface_code.csproj.AssemblyReference.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\obj\Debug\interface_code.csproj.SuggestedBindingRedirects.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\obj\Debug\interface_code.csproj.ResolveComReference.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\obj\Debug\interface_code.Form1.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\obj\Debug\interface_code.Properties.Resources.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\obj\Debug\interface_code.telemetry.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\obj\Debug\interface_code.csproj.GenerateResource.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\obj\Debug\interface_code.csproj.CoreCompileInputs.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\obj\Debug\interface_code.exe
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code - Copy (2) - Copy\interface_code\obj\Debug\interface_code.pdb
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\bin\Debug\interface_code.exe.config
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\bin\Debug\interface_code.exe
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\bin\Debug\interface_code.pdb
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\obj\Debug\interface_code.csproj.AssemblyReference.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\obj\Debug\interface_code.csproj.SuggestedBindingRedirects.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\obj\Debug\interface_code.csproj.ResolveComReference.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\obj\Debug\interface_code.Form1.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\obj\Debug\interface_code.Properties.Resources.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\obj\Debug\interface_code.telemetry.resources
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\obj\Debug\interface_code.csproj.GenerateResource.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\obj\Debug\interface_code.csproj.CoreCompileInputs.cache
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\obj\Debug\interface_code.exe
+C:\Users\sefas\Desktop\tubitak_uzay__telemetry_system\interface_code_V2\interface_code\obj\Debug\interface_code.pdb
